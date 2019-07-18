@@ -1,4 +1,4 @@
 # agario-bots
 Free open source agar.io bots
 <br>
-Tutorial on how to use them coming tomorrow (18/07/2019)
+<a href="https://www.youtube.com/watch?v=91uSYfbCEFg" target="_blank"><b>TUTORIAL HOW TO USE THEM<b></a>
